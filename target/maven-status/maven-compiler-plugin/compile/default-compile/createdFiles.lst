@@ -1,0 +1,7 @@
+META-INF\sisu\javax.inject.Named
+com\alph\jsliderplugin\myjslider.class
+com\alph\jsliderplugin\imyslider.class
+com\alph\jsliderplugin\myslider.class
+com\alph\jsliderplugin\sliderMojo.class
+com\alph\jsliderplugin\myjslider$jsliderUI.class
+com\alph\jsliderplugin\myslider$1.class
